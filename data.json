@@ -1,0 +1,92 @@
+{
+        "config": {
+            "title": "Testworld",
+            "descr": "⸺filethaadaddadad。"
+        },
+        "contents":[
+                {
+                    "type": "re",
+                    "boxheadText": "Hello",
+                    "boxmain": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+                    "boxafter": "⸺aaa、bbb、ccc"
+                }
+            ,
+                {
+                    "type": "bar",
+                    "boxheadText": "Hello",
+                    "boxmain": "bartest",
+                    "boxbars": [
+                        10,
+                        20,
+                        30
+                    ]
+                }
+            ,
+            
+                {
+                    "type": "table",
+                    "tableheadyear":2020,
+                    "yeardescr":"A Start Year ",
+                    "table": [
+                        [
+                            "11",
+                            "22",
+                            "33"
+                        ],
+                        [
+                            "11",
+                            "22",
+                            "33"
+                        ],
+                        [
+                            "11",
+                            "22",
+                            "33"
+                        ],
+                        [
+                            "11",
+                            "22",
+                            "33"
+                        ],
+                        [
+                            "11",
+                            "22",
+                            "33"
+                        ],
+                        [
+                            "11",
+                            "22",
+                            "33"
+                        ]
+                        ,
+                        [
+                            "11",
+                            "22",
+                            "33"
+                        ]
+                    ]
+                },
+                {
+                    "type": "table",
+                    "tableheadyear":2019,
+                    "yeardescr":"A Start Year",
+                    "table": [
+                        [
+                            "11",
+                            "22",
+                            "33"
+                        ],
+                        [
+                            "11",
+                            "22",
+                            "33"
+                        ],
+                        [
+                            "11",
+                            "22",
+                            "33"
+                        ]
+                    ]
+                }
+        ]
+}
